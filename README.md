@@ -12,6 +12,11 @@ You can explore your database and table on your own, but here's a quicker view o
 
 ![Relational schema](./images/relational-schema.png)
 
+
+Note:
+- You can find a larger version of this diagram in the directory `images`.
+- You can also find an interactive version of this diagram [here](https://dbdiagram.io/d/67f268944f7afba18482daf6)
+
 ## Challenge 1 - Who Have Published What At Where?
 
 In this challenge you will write a MySQL `SELECT` query that joins various tables to figure out what titles each author has published at which publishers. Your output should have at least the following columns:
